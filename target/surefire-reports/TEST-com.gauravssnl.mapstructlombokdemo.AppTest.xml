@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.gauravssnl.mapstructlombokdemo.AppTest" time="0.073" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\coding\java\mapstruct-lombok-demo\mapstruct-lombok-demo\target\test-classes;D:\coding\java\mapstruct-lombok-demo\mapstruct-lombok-demo\target\classes;C:\Users\gaurav.kumar87\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\gaurav.kumar87\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\gaurav.kumar87\.m2\repository\org\mapstruct\mapstruct\1.4.2.Final\mapstruct-1.4.2.Final.jar;C:\Users\gaurav.kumar87\.m2\repository\org\projectlombok\lombok\1.18.16\lombok-1.18.16.jar;"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://www.azulsystems.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Zulu\zulu-11\bin"/>
+    <property name="sun.java.command" value="C:\Users\gaurav.kumar87\AppData\Local\Temp\surefire11724275082077217305\surefirebooter687229593041037679.jar C:\Users\gaurav.kumar87\AppData\Local\Temp\surefire11724275082077217305 2021-02-18T21-27-11_562-jvmRun1 surefire18059106518436912609tmp surefire_01306373246947393457tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\coding\java\mapstruct-lombok-demo\mapstruct-lombok-demo\target\test-classes;D:\coding\java\mapstruct-lombok-demo\mapstruct-lombok-demo\target\classes;C:\Users\gaurav.kumar87\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\gaurav.kumar87\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\gaurav.kumar87\.m2\repository\org\mapstruct\mapstruct\1.4.2.Final\mapstruct-1.4.2.Final.jar;C:\Users\gaurav.kumar87\.m2\repository\org\projectlombok\lombok\1.18.16\lombok-1.18.16.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\gaurav.kumar87"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-01-19"/>
+    <property name="java.home" value="C:\Program Files\Zulu\zulu-11"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\coding\java\mapstruct-lombok-demo\mapstruct-lombok-demo"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="jdk.vendor.version" value="Zulu11.45+27-CA"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\gaurav.kumar87\AppData\Local\Temp\surefire11724275082077217305\surefirebooter687229593041037679.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.10+9-LTS"/>
+    <property name="user.name" value="gaurav.kumar87"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Zulu11.45+27-CA"/>
+    <property name="localRepository" value="C:\Users\gaurav.kumar87\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://www.azulsystems.com/support/"/>
+    <property name="java.io.tmpdir" value="C:\Users\gaurav.kumar87\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.10"/>
+    <property name="user.dir" value="D:\coding\java\mapstruct-lombok-demo\mapstruct-lombok-demo"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Zulu\zulu-11\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Zulu\zulu-11\bin\;C:\Python39\Scripts\;C:\Python39\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;D:\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin\;C:\ProgramData\chocolatey\bin;C:\Go\bin;C:\Program Files\Java\jdk1.8.0_141\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Zulu\zulu-11-jre\bin\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files (x86)\Calibre2\;C:\Program Files\SourceGear\Common\DiffMerge\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Alacritty\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;D:\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin\;C:\ProgramData\chocolatey\bin;C:\Go\bin;C:\Program Files\Java\jdk1.8.0_141\bin;C:\Program Files\PuTTY\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\LLVM\bin;C:\Users\gaurav.kumar87\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\gaurav.kumar87\AppData\Local\Programs\Python\Python38\;C:\Users\gaurav.kumar87\.cargo\bin;C:\Users\gaurav.kumar87\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\CVSNT\;C:\Users\gaurav.kumar87\go\bin;C:\Program Files\Sublime Text 3\;C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\bin;D:\cmder_mini\;C:\Users\gaurav.kumar87\AppDa;C:\Users\gaurav.kumar87\Geany 1.36\bin\;D:\tools\neovim\Neovim\bin;C:\Program Files\Docker Toolbox\;C:\Users\gaurav.kumar87\AppData\Roaming\npm;C:\Users\gaurav.kumar87\AppData;C:\Users\gaurav.kumar87\AppData\Local\Pandoc\;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="java.vm.version" value="11.0.10+9-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.gauravssnl.mapstructlombokdemo.AppTest" time="0.005"/>
+</testsuite>
