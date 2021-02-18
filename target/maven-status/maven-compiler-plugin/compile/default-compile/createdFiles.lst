@@ -1,0 +1,10 @@
+com\gauravssnl\mapstructlombokdemo\App.class
+com\gauravssnl\mapstructlombokdemo\AddressMapper.class
+com\gauravssnl\mapstructlombokdemo\Employee.class
+com\gauravssnl\mapstructlombokdemo\EmployeeMapperDemo.class
+com\gauravssnl\mapstructlombokdemo\EmployeeMapperImpl.class
+com\gauravssnl\mapstructlombokdemo\AddressDTO.class
+com\gauravssnl\mapstructlombokdemo\EmployeeDTO.class
+com\gauravssnl\mapstructlombokdemo\Address.class
+com\gauravssnl\mapstructlombokdemo\EmployeeMapper.class
+com\gauravssnl\mapstructlombokdemo\AddressMapperImpl.class
